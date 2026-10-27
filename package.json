@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KiraRomanenk/lab4-http-server/issues"
   },
-  "homepage": "https://github.com/KiraRomanenk/lab4-http-server#readme"
+  "homepage": "https://github.com/KiraRomanenk/lab4-http-server#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
 }
